@@ -1,8 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     output: 'export',
-    assetPrefix: '/swa-profile/',
-    basePath: '/swa-profile'
+    assetPrefix: '/SWA-profile/',
+    basePath: '/SWA-profile'
 };
 
 export default nextConfig;
