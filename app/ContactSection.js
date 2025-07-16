@@ -13,7 +13,7 @@ export default function ContactSection() {
           <div className="hidden sm:block flex-1 h-px bg-[#b3b3b3] ml-4" />
         </div>
         <div className="w-full">
-        <h2 className="text-2xl sm:text-4xl text-[#fdb86b] font-medium mb-6 ">I’d love to hear if you see a fit!</h2>
+        <h2 className="text-2xl sm:text-4xl text-[#fdb86b] font-medium mb-6 ">{"I’d love to hear if you see a fit!"}</h2>
         <p className="text-base sm:text-lg text-[#e6e6e6] mb-10 text-center">I'm seeking opportunities to leverage my experience for impactful contributions.</p>
         <div className="flex justify-end">
           <button

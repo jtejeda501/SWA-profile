@@ -17,7 +17,7 @@ export default function ContactAlertModal({ onClose, onContactForm }) {
         <AlertDialogHeader>
           <AlertDialogTitle className="text-lg font-bold text-[#fdb86b]">Does my profile interest you?</AlertDialogTitle>
           <AlertDialogDescription className="text-base text-[#fdb86b] opacity-80 mt-2">
-            I'd appreciate hearing if my profile aligns with your interests.
+            {"I'd appreciate hearing if my profile aligns with your interests."}
           </AlertDialogDescription>
         </AlertDialogHeader>
         <AlertDialogFooter>
