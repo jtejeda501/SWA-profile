@@ -8,6 +8,11 @@ import React from "react";
 import Navbar from "./Navbar";
 
 
+export const metadata = {
+  title: 'Julio Tejeda | Profile', // Tab title
+  description: 'join me', // SEO meta
+};
+
 export default function Home() {
   const sectionComponents = [HeroSection, AboutSection, WorkSection, ContactSection];
   const [sectionCount, setSectionCount] = React.useState(0);
