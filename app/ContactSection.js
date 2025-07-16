@@ -14,7 +14,7 @@ export default function ContactSection() {
         </div>
         <div className="w-full">
         <h2 className="text-2xl sm:text-4xl text-[#fdb86b] font-medium mb-6 ">{"I’d love to hear if you see a fit!"}</h2>
-        <p className="text-base sm:text-lg text-[#e6e6e6] mb-10 text-center">I'm seeking opportunities to leverage my experience for impactful contributions.</p>
+        <p className="text-base sm:text-lg text-[#e6e6e6] mb-10 text-center">{"I'm seeking opportunities to leverage my experience for impactful contributions."}</p>
         <div className="flex justify-end">
           <button
             type="button"
